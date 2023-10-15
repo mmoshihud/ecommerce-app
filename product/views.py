@@ -2,6 +2,12 @@ from django.shortcuts import render
 
 
 # Create your views here.
+
+
+def test():
+    print("hello")
+
+
 def test2():
     print("in development branch ")
 
